@@ -1,0 +1,5 @@
+ylt ^EUtranCellFDD
+cabx
+bo
+cvcu
+hgetc ^EUtranCellFDD ^cellId$|^earfcndl$|^earfcnul$|^physicalLayerCellIdGroup$|^physicalLayerSubCellId$|^tac$|^rachRootSequence$|^dlChannelBandwidth$|^ulChannelBandwidth$
